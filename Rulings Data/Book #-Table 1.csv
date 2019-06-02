@@ -1,0 +1,65 @@
+Book #,Boyn Vol,Topic,Count,Strictness,Lenience
+1,1,Salat,25,12,8
+2,2,Hayd,2,0,0
+3,2,Zakat,2,1,0
+4,2,Khums,0,0,0
+5,2,Sawm,4,0,3
+6,2,Nawadir Sawm,0,0,0
+7,2,Taharri,1,0,0
+8,2,Istihsan,1,0,0
+9,2,Ayman,6,2,2
+10,2,Buyu' and Salam,28,6,14
+11,2,Sarf,6,1,2
+12,3,Rahn,5,0,3
+13,3,Qisma,5,0,5
+14,3,Hiba,6,1,5
+15,3,Ijara,22,0,12
+16,4,Sharika,6,0,3
+17,4,Mudaraba,14,0,6
+18,4,Rada',2,1,0
+19,4,Talaq,19,3,5
+20,5,3ataq,9,1,4
+21,5,Mukaatab,8,0,7
+22,5,Laqit,1,1,0
+23,5,Itq fi Marad,0,0,0
+24,5,Sayd and Dhabaih,7,0,7
+25,5,Wasaya,8,3,3
+26,5,Wasaya fi Din,0,0,0
+27,5,Qaraid,0,0,0
+28,6,Mukatab 2,37,7,22
+29,6,Walaa,4,4,0
+30,6,Qawm min Arab,0,0,0
+31,6,Jinayat,0,0,0
+32,6,Diyat,14,1,8
+33,7,Dawr,0,0,0
+34,7,Hudud,12,2,8
+35,7,Sariqa,16,2,10
+36,7,Ikrah,19,4,7
+37,7,Siyar,3,1,2
+38,7,Kharaj,0,0,0
+39,7,Ushr,0,0,0
+40,7,Da'wa,10,1,1
+41,8,Sharab,3,0,0
+42,8,Iqrar,20,0,10
+43,8,Wadi'a,2,0,2
+44,8,Ariya,3,1,2
+45,8,Hijr,1,0,0
+46,8,Ma'dhoon,15,1,4
+47,9,Shuf'a,10,4,1
+48,9,Khuntha,0,0,0
+49,9,Faraid Khuntha,0,0,0
+50,9,Mafqood,1,0,0
+51,9,Ju'l,3,0,0
+52,9,Uql,0,0,0
+53,9,Hiyal,3,0,3
+54,9,Luqta,2,0,0
+55,9,Murara'a,19,0,6
+56,10,Nikah,12,2,5
+57,10,Hiwala Kifala,4,1,2
+58,10,Sulh,11,1,7
+59,11,Wakala,42,5,19
+60,11,Shahadat,3,1,1
+61,12,Ruju an Shahada,0,0,0
+62,12,Waqf,0,0,0
+63,12,Sadaqa Mawqufa,0,0,0
+64,12,Ghasb,3,1,0
